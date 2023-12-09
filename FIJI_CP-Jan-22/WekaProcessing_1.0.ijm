@@ -13,7 +13,7 @@ VERSION 1.0: first release. Full configurable weka processing.
              Log window used to check when the model has been loaded
              and read the class names within the model.
 VERSION 0.2: weka processing implemented. Missing output split.
-VERSION 0.1: beta release for Lorenzo. Only sub-images selection implemented.
+VERSION 0.1: beta release. Only sub-images selection implemented.
 */
 var suffix = ".tif";
 // -----------------------------------------------------------

@@ -9,6 +9,8 @@ setBatchMode(true); //Start batch mode
 // -----------------------------------------------------------
 var VERSION = 1.32;
 /*
+VERSION 1.32: Jan 2022
+  Added batch mode to avoid opening images runtime.
 VERSION 1.1: 31/05/2020
   Fix file naming management bug. Fix CPInput management.
   Improved management of per-channel preprocessing configuration.
