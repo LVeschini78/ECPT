@@ -1,4 +1,4 @@
-# HCA-uncovers-metastable-phenotypes-in-hEC-monolayers
+# Endothelial Cells Profiling Tool (ECPT)
 
 This repository contains the scripts used in the paper ["High content Image Analysis to study phenotypic heterogeneity in endothelial cell monolayers"](https://www.biorxiv.org/content/10.1101/2020.11.17.362277v4):
 
